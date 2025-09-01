@@ -1,0 +1,10 @@
+{
+  "pids_images": [
+    {
+      "id": "beijingsubway",
+      "name": "beijingsubway",
+      "thumbnail": "jsblock:textures/block/pids/thumbnail/pids_1a.png",
+      "scriptFiles": ["jsblock:scripts/builtin/pids_beijingsubway.js"]
+    }
+  ]
+}
